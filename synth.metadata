@@ -11,8 +11,8 @@
       "git": {
         "name": "googleapis",
         "remote": "https://github.com/googleapis/googleapis.git",
-        "sha": "15af12eb717cd30175825ad412045b9e59b133b4",
-        "internalRef": "348046114"
+        "sha": "c1a601690b7fdfc2ca7a070038546321102b5f0b",
+        "internalRef": "348091500"
       }
     },
     {
@@ -153,6 +153,7 @@
     "google/cloud/pubsublite_v1/types/topic_stats.py",
     "mypy.ini",
     "noxfile.py",
+    "pubsublite-v1-py.tar.gz",
     "renovate.json",
     "scripts/decrypt-secrets.sh",
     "scripts/readme-gen/readme_gen.py",
